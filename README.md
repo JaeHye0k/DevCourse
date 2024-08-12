@@ -45,3 +45,5 @@ console.log(result); // 3
 _기울이기_  
 **_굵게 기울이기_**  
 <u>밑줄</u>
+
+[참고자료: GitHub Docs](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
